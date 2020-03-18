@@ -1,5 +1,4 @@
 # Debug-Log
-The bugs that I fixed
 
 Red error messages used to make me headache. However, in my work I have to fix them everyday. Not like
 school, I cannot easily quit or ask for help from TA/friend. So I calm down and look at the hints, search
