@@ -4,7 +4,7 @@ Scarlet error messages used to be my headache. By irony of life (kind of), this 
 
 After a while, I became much more comfortable with debugging and began to enjoy this thief-chasing kind of game. I try to trap the bugs in my breakpoints; if I get lost of its trace, I would set harder checkpoints. 
 
-Along the way, I go through many unexpected places, got a better big picture and picked up some technology. 
+Along the way, I go through many unexpected places, get a better big picture and pick up some technology. 
 
 So I decided to keep a log about some bugs I fixed. To keep it simple, I name the files in the date
 I fixed the bug. Might change into other structure in the future :) 
