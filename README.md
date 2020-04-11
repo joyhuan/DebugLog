@@ -6,7 +6,7 @@ After a while, I became much more comfortable with debugging and began to enjoy 
 
 Along the way, I go through many unexpected places, get a better big picture and pick up some technology. 
 
-So I decided to keep a log about some bugs I fixed. To keep it simple, I name the files in the date
+So I decided to keep a log about some bugs I fixed. To keep it simple, I name the files with the date
 I fixed the bug. Might change into other structure in the future :) 
 
 推着巨石的西西弗斯，一次次推上山顶又看它落下
