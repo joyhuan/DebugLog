@@ -1,5 +1,9 @@
 # Debug-Log
 
+> Debugging
+> 1. Being the detective in a crime movie where you are also the murderer. 
+
+
 Scarlet error messages used to be my headache. By irony of life (kind of), this becomes my daily job haha. Not like school, I cannot easily quit this time; so I calm down, look for hints, search for related past fixes, and think. 
 
 After a while, I became much more comfortable with debugging and began to enjoy this thief-chasing kind of game. I try to trap the bugs in my breakpoints; if I get lost of its trace, I would set harder checkpoints. 
